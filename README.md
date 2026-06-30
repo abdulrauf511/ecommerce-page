@@ -109,4 +109,4 @@ yarn test
 - Keyboard navigation support
 - Color contrast compliance
 - Screen reader announcements for dynamic content
-- Focus management for interactive elements
+- Focus management for interactive elements.
